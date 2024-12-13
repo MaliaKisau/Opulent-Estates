@@ -7,7 +7,7 @@ With **Opulent Estates**, we’re offering you a seamless and elegant experience
 ## Features:
 - **Elegant Property Listings**: Carefully selected properties that showcase the epitome of luxury living. View stunning images and descriptions that transport you to your future home.
 - **Price Sorting**: Sort listings by price to find the perfect match for your budget and preferences.
-- **Contact Us**: Reach out to us directly through the contact form, and we’ll assist you in your journey to finding your dream estate.
+- **Contact Us**: Reach out to us directly through the contact form, and we’ll assist you in your journey to finding your dream estate..
 
 ## Tech Stack:
 - **HTML**: The foundation of our beautiful site, structured for simplicity and elegance.
